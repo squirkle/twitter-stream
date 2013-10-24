@@ -1,0 +1,8 @@
+{
+  "name" : "twitter-stream",
+  "description" : "A hub for connecting to twitter streams",
+  "version" : "0.0.2",
+  "dependencies" : {
+    "oauth" : "0.9.10"
+  }
+}
