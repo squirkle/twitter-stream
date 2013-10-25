@@ -1,8 +1,8 @@
 {
   "name" : "twitter-stream",
-  "description" : "A hub for connecting to twitter streams",
+  "description" : "A simple Node.js interface for connecting to Twitter's streaming API",
   "version" : "0.0.2",
   "dependencies" : {
-    "oauth" : "0.9.10"
+    "twitter-link" : "git://github.com/squirkle/twitter-link.git"
   }
 }
