@@ -1,4 +1,4 @@
-# Node.js Twitter-Websocket Server
+# Node.js Twitter Server
 
 A simple interface for consuming tweets using Twitter's streaming API.
 
